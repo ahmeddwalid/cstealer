@@ -6,14 +6,14 @@
 
 </p>
 <p align="center">
-    <img src="https://img.shields.io/github/stars/ahmeddwalid/stealer?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/forks/ahmeddwalid/stealer?color=%23000000"> 
+    <img src="https://img.shields.io/github/stars/ahmeddwalid/cstealer?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/forks/ahmeddwalid/cstealer?color=%23000000"> 
     <br>
-    <img src="https://img.shields.io/github/languages/top/ahmeddwalid/stealer?color=%23000000">
-    <img src="https://img.shields.io/github/last-commit/ahmeddwalid/stealer?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/languages/top/ahmeddwalid/cstealer?color=%23000000">
+    <img src="https://img.shields.io/github/last-commit/ahmeddwalid/cstealer?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/issues/ahmeddwalid/stealer?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/ahmeddwalid/stealer?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues/ahmeddwalid/cstealer?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/ahmeddwalid/cstealer?color=%23000000&logoColor=%23000000">
     <br>
 </p>
  
