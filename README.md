@@ -16,11 +16,6 @@
     <img src="https://img.shields.io/github/issues-closed/ahmeddwalid/cstealer?color=%23000000&logoColor=%23000000">
     <br>
 </p>
- 
-<p align="center">
-  Telegram: https://t.me/cnkservices
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-</p>
 <br>
 
 ## Install
