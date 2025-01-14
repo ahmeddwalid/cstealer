@@ -22,19 +22,6 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
-    
-## End of the CStealer
-
-Dear contributors and users,
-
-I’ve made the decision to archive the CStealer repository as I shift my focus toward my education and personal development. This project has been an incredible learning experience for me, and I deeply appreciate all the support, feedback, and contributions from the community over its lifespan.
-
-The repository will remain available in a read-only state for those who might still find it useful, but no further updates or maintenance will be provided.
-
-Thank you all for being part of this journey. I hope to return in the future with new and exciting projects to share!
-
-Wishing you all the best,<br>
-cankat.
 
 ## Install
 
